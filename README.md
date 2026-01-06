@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ninad
 - 👀 I’m interested in App Development
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Python and Flutter projects
-- 📫 How to reach me ninunauty1234@outlook.com
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Java and Python projects
+- 📫 How to reach me 1234ninunauty@gmail.com
