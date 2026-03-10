@@ -1,5 +1,3 @@
 - 👋 Hi, I’m Ninad
 - 👀 I’m interested in App Development
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java and Python projects
-- 📫 How to reach me 1234ninunauty@gmail.com
